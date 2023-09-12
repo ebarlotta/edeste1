@@ -15,3 +15,4 @@ class ObraComponent extends Component
         return "Entro";
     }
 }
+    
